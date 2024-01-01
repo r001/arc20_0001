@@ -1,0 +1,6 @@
+{
+    "program": "arc20_0001.aleo",
+    "version": "0.0.1",
+    "description": "ARC20 reference implementation",
+    "license": "MIT"
+}
