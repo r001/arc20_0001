@@ -1,0 +1,3 @@
+// The program input for arc20_0001/src/main.leo
+[mint]
+amount: u64 = 1u64;
